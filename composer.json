@@ -1,0 +1,13 @@
+{
+    "name": "marvelley/sample-package",
+    "require": {
+        "doctrine/orm": "2.2.*",
+        "marvelley/lastfm-api": "1.0.*@dev"
+    },
+    "authors": [
+        {
+            "name": "Craig Marvelley",
+            "email": "craig.marvelley@gmail.com"
+        }
+    ]
+}
